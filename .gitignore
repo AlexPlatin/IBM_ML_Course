@@ -1,0 +1,7 @@
+
+/.idea/
+*.xml
+/venv/
+/venv_for_modules/
+/logs/
+*.log
